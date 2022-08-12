@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="total_price_Rs">Total Price :Rs</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="productimage">ProductImage</string>
+    <string name="product_name">Product Name</string>
+    <string name="_4_0">4.0</string>
+    <string name="description">Even bad code can function. But if code isn?t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesnot have to be that way. Noted software expert Robert C</string>
+    <string name="price">Price</string>
+    <string name="rs">Rs</string>
+    <string name="additem">AddItem</string>
+    <string name="_1">1</string>
+    <string name="removeitem">RemoveItem</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="categoryimage">CategoryImage</string>
+    <string name="category_name">Category Name</string>
+    <string name="category">Category</string>
+    <string name="see_all">See All</string>
+    <string name="new_products">New Products</string>
+    <string name="we_provide_best_products">We provide best products.</string>
+    <string name="current_date">Current Date:</string>
+    <string name="current_time">Current Time:</string>
+    <string name="product_names">Product Name:</string>
+    <string name="product_price">Product Price:</string>
+    <string name="total_price">Total Price</string>
+    <string name="total_prices">Total price</string>
+    <string name="total_quantity">Total Quantity</string>
+    <string name="imageviewproduct">ImageViewProduct</string>
+    <string name="newtext">New</string>
+    <string name="price_rs">Price: Rs</string>
+    <string name="_90">90</string>
+    <string name="itemimage">ItemImage</string>
+    <string name="rs_34_0">Rs 34.0</string>
+    <string name="woman_t_shirt">Woman T shirt</string>
+    <string name="logout">Logout</string>
+    <string name="my_cart">My Cart</string>
+</resources>
